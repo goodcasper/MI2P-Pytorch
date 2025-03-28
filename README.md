@@ -15,9 +15,9 @@ This project implements the MI2P (Multimodal Information Injection Plug-in) modu
 
 The original CVPR 2022 paper introduces a bidirectional multimodal injection framework:
 
-Injecting textual features into visual models (e.g., BERT → DenseNet)
+Injecting textual features into visual models (e.g. BERT → DenseNet)
 
-Injecting visual features into language models (e.g., DenseNet → BERT)
+Injecting visual features into language models (e.g. DenseNet → BERT)
 
 <img src="https://github.com/user-attachments/assets/fa52d2e8-7b10-4f2a-bd09-d18d8b088bf9" width="350"/>
 
