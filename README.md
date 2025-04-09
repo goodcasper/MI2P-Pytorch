@@ -20,6 +20,8 @@ Injecting textual features into visual models (e.g. BERT → DenseNet)
 Injecting visual features into language models (e.g. DenseNet → BERT)
 
 <img src="https://github.com/user-attachments/assets/fa52d2e8-7b10-4f2a-bd09-d18d8b088bf9" width="350"/>
+<img src="https://github.com/user-attachments/assets/7cae5992-02f1-45fe-86b2-f8e2555e6948" width="350"/>
+
 
 >The following diagram is taken from the CVPR 2022 paper  
 > *“Expanding Large Pre-trained Unimodal Models with Multimodal Information Injection for Image-Text Multimodal Classification”*  
